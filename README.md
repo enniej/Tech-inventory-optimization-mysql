@@ -77,14 +77,14 @@ Suboptimal Inventory Levels: Through the inventory optimization analysis, it was
 
 ## Contributing
 1. Fork the repository
-2. Create feature branch
+2. Create a feature branch
 3. Commit changes
 4. Push to branch
 5. Submit pull request
 
 ## Support
 * Submit issues via GitHub
-* Contact: your@email.com
+* Contact: eneojaide@gmail.com
 
 ## License
 MIT License
